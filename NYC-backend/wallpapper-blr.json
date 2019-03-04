@@ -1,0 +1,81 @@
+[
+  {
+    "fileName": "0300-morning3.jpg",
+    "isPrimary": false,
+    "isForLight": true,
+    "isForDark": true,
+    "altitude": -50.15,
+    "azimuth": 85.45
+  },
+  {
+    "fileName": "0500-morning6.jpg",
+    "isPrimary": true,
+    "isForLight": true,
+    "isForDark": true,
+    "altitude": -20.96,
+    "azimuth": 92.65
+  },
+    {
+    "fileName": "0800-morning8.jpg",
+    "isPrimary": false,
+    "isForLight": true,
+    "isForDark": true,
+    "altitude": 22.55,
+    "azimuth": 103.32
+  },
+    {
+    "fileName": "1100-morning11.jpg",
+    "isPrimary": false,
+    "isForLight": true,
+    "isForDark": true,
+    "altitude": 61.95,
+    "azimuth": 134.05
+  },
+    {
+    "fileName": "1300-afternoon1.jpg",
+    "isPrimary": false,
+    "isForLight": true,
+    "isForDark": true,
+    "altitude": 67.75,
+    "azimuth": 207.35
+  },
+    {
+    "fileName": "1500-afternoon3.jpg",
+    "isPrimary": false,
+    "isForLight": true,
+    "isForDark": true,
+    "altitude": 45.52,
+    "azimuth": 245.84
+  },
+    {
+    "fileName": "1730-eve530.jpg",
+    "isPrimary": false,
+    "isForLight": true,
+    "isForDark": true,
+    "altitude": 10.52,
+    "azimuth": 260.42
+  },
+    {
+    "fileName": "1900-eve6.jpg",
+    "isPrimary": false,
+    "isForLight": true,
+    "isForDark": true,
+    "altitude": -11.40,
+    "azimuth": 265.54
+  },
+    {
+    "fileName": "2100-night9jpg.jpg",
+    "isPrimary": false,
+    "isForLight": true,
+    "isForDark": true,
+    "altitude": -40.55,
+    "azimuth": 272.17
+  },
+      {
+    "fileName": "2300-night11onwards.jpg",
+    "isPrimary": false,
+    "isForLight": true,
+    "isForDark": true,
+    "altitude": -69.46,
+    "azimuth": 285.76
+  }]
